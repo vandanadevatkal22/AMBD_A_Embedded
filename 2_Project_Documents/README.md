@@ -131,6 +131,3 @@ maintaining the stability of the bike.
 ## SWOT Analysis
 
 ![Screenshot (295)](https://user-images.githubusercontent.com/42509490/160194974-011710ee-e198-48da-a448-84c230893f24.png)
-
-## 5W's and 1H
-
