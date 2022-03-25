@@ -119,7 +119,7 @@ maintaining the stability of the bike.
 
 | ID	|Description| ID |
 |-----|----------|-----|
-|LLR1|Determining the wheel’s speed on braking|HLR1|
-|LLR2|Determining the vehicle’s speed on braking|HLR1|
-|LLR3|Determining the relative slip|HLR1|
-|LLR4|Determining the reduce in the slip distance|HLR2|
+|LLR1|Determining the wheel’s speed on braking (reduction/stopping the wheel)|HLR1|
+|LLR2|Determining the vehicle’s speed on braking (reduction/stopping the vehicle)|HLR1|
+|LLR3|Determining the relative slip between the wheel and the road|HLR1|
+|LLR4|Determining the reduce in the slip distance on braking|HLR2|
