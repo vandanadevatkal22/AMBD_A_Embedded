@@ -17,7 +17,7 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 
 |Id|	High Level Requirements	|Low Level Requirements|
 |--|----------------------------|----------------------|
-|1 |The system should monitor cell voltage|	All cell voltages are measured in a lithium-ion pack|
+|1 |The system should monitor cell voltage|	All cell voltages are measured in a lithium-ion pack.|
 |2 |The system should estimate the state of charge (SoC)|	SoC can be calculated by dividing the remaining capacity with total capacity.|
 |3|	The system should protect the battery from overcharge|	It shall limit the input and output power|
 |4|	It should control the charging profile|	By sensing the voltage at input, it shall control charging profile|
