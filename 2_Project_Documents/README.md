@@ -105,4 +105,16 @@ maintaining the stability of the bike.
 
 ### High Level Requirements
 
+| ID	|Description|
+|-----|----------|
+|HLR1|Control the braking action based on the speed senor’s input|
+|HLR2|Reduce the stopping distance|
+
 ### Low Level Requirements
+
+| ID	|Description| ID |
+|-----|----------|-----|
+|LLR1|Determining the wheel’s speed on braking|HLR1|
+|LLR2|Determining the vehicle’s speed on braking|HLR1|
+|LLR3|Determining the relative slip|HLR1|
+|LLR4|Determining the reduce in the slip distance|HLR2|
