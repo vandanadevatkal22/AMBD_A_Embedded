@@ -13,6 +13,10 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 •	It should control the charging profile
 •	The system should monitor the temperature for thermal protection
 
+## SWOT Analysis
+![image](https://user-images.githubusercontent.com/66207959/160119689-b559561c-f66f-4d42-8eb5-f6c0c91f338e.png)
+
+
 ## Requirements Modelling
 
 ### High Level Requirements
