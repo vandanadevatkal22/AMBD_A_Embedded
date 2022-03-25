@@ -106,11 +106,6 @@ maintaining the stability of the bike.
 * Takes the wheel speed input from speed sensor.
 * Control the braking action based on the wheel’s speed input.
 
-## Black Box
-
-![Screenshot (296)](https://user-images.githubusercontent.com/42509490/160197020-7e2688b5-e9bd-4ca1-a322-6e37bb142a69.png)
-
-
 ## Requirements
 
 ### High Level Requirements
@@ -128,6 +123,10 @@ maintaining the stability of the bike.
 |LLR2|Determining the vehicle’s speed on braking (reduction/stopping the vehicle)|HLR1|
 |LLR3|Determining the relative slip between the wheel and the road|HLR1|
 |LLR4|Determining the reduce in the slip distance on braking|HLR2|
+
+## Black Box
+
+![Screenshot (296)](https://user-images.githubusercontent.com/42509490/160197020-7e2688b5-e9bd-4ca1-a322-6e37bb142a69.png)
 
 ## SWOT Analysis
 
