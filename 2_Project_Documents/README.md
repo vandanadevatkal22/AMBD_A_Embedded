@@ -42,4 +42,4 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 | LLR3 | Set value should be defined clearly | Set value or threshold value which is used to decide the self-balancing mode should be defined. |
 | LLR4 | A Feedback loop should be established | The system should have a working feedback loop to send the current data back to the control loop |
 | LLR5 | A controller/Control Unit should be created | A controller should be created for calculating the counter momentum to be made |
-| LLR6 | Disturbance angle should be sensed | Deviation of the bike from the rest angle should be known for further calculation |
+| LLR6 | Disturbance angle should be sensed | Deviation of the bike from the rest angle should be known for further calculation. |
