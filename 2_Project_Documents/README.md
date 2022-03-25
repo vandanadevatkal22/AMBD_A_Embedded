@@ -96,6 +96,11 @@ ABS uses speed sensors on the wheels to accurately determine the wheel speed as 
 braking pressure accordingly using the combination of the electronic control unit (ECU) and pressure valves to prevent the wheel from locking and assists with
 maintaining the stability of the bike.
 
+## Identifying Features
+
+* Takes the wheel speed input from speed sensor.
+* Control the braking action based on the wheel’s speed input.
+
 ## Requirements
 
 ### High Level Requirements
