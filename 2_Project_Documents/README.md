@@ -18,7 +18,7 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 ### High Level Requirements
 
 |Id| Requirements	|
-|--|----------------------------|----------------------|
+|--|----------------|
 |HLR 1 |The system should monitor cell voltage|	
 |HLR 2 |The system should estimate the state of charge (SoC)|
 |HLR 3|	The system should protect the battery from overcharge|
