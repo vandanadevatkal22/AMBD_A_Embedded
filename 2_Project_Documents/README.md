@@ -15,13 +15,25 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 
 ## Requirements Modelling
 
-|Id|	High Level Requirements	|Low Level Requirements|
+### High Level Requirements
+
+|Id| Requirements	|
 |--|----------------------------|----------------------|
-|1 |The system should monitor cell voltage|	All cell voltages are measured in a lithium-ion pack|
-|2 |The system should estimate the state of charge (SoC)|	SoC can be calculated by dividing the remaining capacity with total capacity.|
-|3|	The system should protect the battery from overcharge|	It shall limit the input and output power|
-|4|	It should control the charging profile|	By sensing the voltage at input, it shall control charging profile|
-|5|	The system should monitor the temperature for thermal protection|	Sensors are placed external to one or more cells per module and internal temperatures are calibrated.|
+|HLR 1 |The system should monitor cell voltage|	
+|HLR 2 |The system should estimate the state of charge (SoC)|
+|HLR 3|	The system should protect the battery from overcharge|
+|HLR 4|	It should control the charging profile|	
+|HLR 5|	The system should monitor the temperature for thermal protection|	
+
+### Low Level Requirements
+
+|Id|Requirements|
+|--|------------|
+|LLR 1|All cell voltages are measured in a lithium-ion pack|
+|LLR 2|	SoC can be calculated by dividing the remaining capacity with total capacity.|
+|LLR 3|	It shall limit the input and output power|
+|LLR 4|By sensing the voltage at input, it shall control charging profile|
+|LLR 5|Sensors are placed external to one or more cells per module and internal temperatures are calibrated.|
  
 # Self-Balancing System
 ## Description
