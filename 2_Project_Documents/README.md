@@ -82,5 +82,22 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 |LLR03	|If the vehicle turned on the light should turn on|
 |LLR04 |If Value 20 is pressed the Left should turn on|
 
+# Anti-Lock Braking System
+
+## Abstract
+
+The Anti-lock braking system is used in an application where there is a need for traction control between the wheel of the bike and the road when the brake is applied.
+In traditional breaking system on applying the brakes, the wheel used to get locked and slip on the road resulting in losing control on the bike. To overcome this
+problem ABS was introduced which provides intermittent braking of the wheel and facilitates good traction control. 
   
-  
+## Description
+
+ABS uses speed sensors on the wheels to accurately determine the wheel speed as well as sensors to determine when a wheel is about to lock. Then, the ABS adjusts the
+braking pressure accordingly using the combination of the electronic control unit (ECU) and pressure valves to prevent the wheel from locking and assists with
+maintaining the stability of the bike.
+
+## Requirements
+
+### High Level Requirements
+
+### Low Level Requirements
