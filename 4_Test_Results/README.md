@@ -40,3 +40,14 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 |02|Determining the vehicle’s speed on braking (reduction/stopping the vehicle)|Signal builder input = Wheel slip (0.1 to 0.55)| Corresponding graphical output|Corresponding graphical output| Pass | 
 |03|Determining the relative slip between the wheel and the road|Signal builder input = Wheel slip (0.1 to 0.55)| Corresponding graphical output|Corresponding graphical output| Pass | 
 |04|Determining the reduce in the slip distance on braking| Signal builder input = Wheel slip (0.1 to 0.55)| Corresponding graphical output|Corresponding graphical output| Pass | 
+
+## Testing for Speed Modes
+
+|SL No|Description|Input|Expected O/P|Actual O/P|Status|
+|:---|:---|:---|:---|:---|:---|
+|01|Determining whether the system is ON|USER input 1|Display Output 1|Display Output 1| ✅ |
+|02|Determining whether the system is OFF|USER input 0|Display Output 0|Display Output 0| ✅ | 
+|03|Determining the self-balancing mode|USER input 1|Display the speed range upto 14km/hr|Display the speed range upto 14km/hr| ✅ | 
+|04|Determining the eco mode|USER input 2|Display the speed range upto 30km/hr|Display the speed range upto 30km/hr| ✅ |
+|05|Determining the self-balancing mode|USER input 3|Display the speed range upto 65km/hr|Display the speed range upto 65km/hr| ✅ |
+|06|Determining the self-balancing mode|USER input 4|Display the speed range upto 100km/hr|Display the speed range upto 100km/hr| ✅ |
