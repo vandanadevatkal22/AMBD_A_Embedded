@@ -10,8 +10,12 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 |3. | 3  | 3 | Green light glowing | Green light glowing | PASS |
 |4. | 2 | 7 | Green light glowing | Green light glowing | PASS |
 |5. | -2 | 3 | Green light glowing | Green light glowing | PASS |
-### Angle of Deviation
+
+* Angle of Deviation
 ![Screenshot (750)](https://user-images.githubusercontent.com/66207959/160251669-bcf5eeca-969f-4151-a4d6-e64f42eeecae.png)
+
+* Oscillations
+<img width="479" alt="Self_balance" src="https://user-images.githubusercontent.com/98833151/160252826-3d9930ca-ba92-4bd8-9340-699301225fc6.png">
 
 ## Testing for Battery Management System
 
@@ -62,3 +66,24 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 |04|Determining the eco mode|USER input 2|Display the speed range upto 30km/hr|Display the speed range upto 30km/hr| ✅ |
 |05|Determining the self-balancing mode|USER input 3|Display the speed range upto 65km/hr|Display the speed range upto 65km/hr| ✅ |
 |06|Determining the self-balancing mode|USER input 4|Display the speed range upto 100km/hr|Display the speed range upto 100km/hr| ✅ |
+
+### Outputs:
+
+* Self-Balance Mode
+
+<img width="919" alt="Self_balance_mode" src="https://user-images.githubusercontent.com/98833151/160252858-2865ac02-ab14-4439-847e-4c5b3a3a8170.png">
+
+* Eco Mode
+
+<img width="913" alt="Eco_Mode" src="https://user-images.githubusercontent.com/98833151/160252859-298ae37f-35aa-4203-9de5-47b5ca1f2ad0.png">
+
+* Urban Mode
+
+<img width="908" alt="Urban_mode" src="https://user-images.githubusercontent.com/98833151/160252860-0d005c26-81b3-4e54-ae29-ba9e96a89687.png">
+
+* Sports Mode
+
+<img width="907" alt="Sports_mode" src="https://user-images.githubusercontent.com/98833151/160252867-27db5247-099d-4992-8452-8b693f053e1e.png">
+
+
+
