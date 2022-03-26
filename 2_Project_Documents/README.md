@@ -168,3 +168,47 @@ maintaining the stability of the bike.
 
 ![Screenshot (298)](https://user-images.githubusercontent.com/42509490/160229128-0d39030b-e1c7-4cd7-9635-077e52b840ff.png)
 
+
+# Speed Modes
+
+## Abstract
+
+Speed modes can alter the sensitivity of the throttle, the amount of fuel going into the engine, the amount of traction available and variations on the suspension settings. These variations may alter in conjunction or separately to bring about changes in how the bike rides and feels.
+
+## Introduction
+
+Most modern vehicles are controlled by an Engine Control Unit (ECU) a sophisticated system that can control the vehicles’s main components including engine transmission, suspension, steering and braking. This has allowed automobile manufacturers to offer different driving modes that change the handling, dynamics and efficiency of a vehicle at the touch of a button. This has essentially enabled manufacturers to offer one vehicle that can fulfil multiple roles more seamlessly. For example, when on your commute, you may wish to be in the most efficient drive mode setting to ensure the best fuel efficiency. However, on a long journey, you may prefer quicker responses and better performance from your vehicle. Thanks to different driving modes, this is now all possible from just one vehicle.
+
+### Eco Mode:
+Eco mode is designed to reduce fuel consumption and improve the bike’s efficiency. To achieve this, the amount of fuel allowed into the engine is often reduced, and some of the engine cylinders may be shut down. The throttle response often reduces to help the driver use less fuel and improve mileage capabilities, but this can make the bike feel slower.
+
+### Urban Mode:
+It offers the ideal setting for long commutes as it helps make sure the bike runs as smoothly and comfortably as possible. It offers a good balance between Eco and Sport settings and is ideal for day-to-day use. The suspension is usually in its softest setting to help smooth out any bumps or jolts in the road, while in automatics the gear changes may come earlier to allow for a smoother and steadier ride-quality.   
+
+### Sports Mode:
+In sports mode, the throttle will become more responsive, meaning the bike accelerates more readily. In addition, more fuel is introduced into the engine to increase the available power, the steering gets heavier and the suspension will stiffen. 
+
+## Requirement Modelling
+
+### High Level Requirements
+
+|Id| Requirements|
+|:---|:---|
+|HLR 1 |The system shall turn ON.|	
+|HLR 2 |The system shall turn OFF.|
+|HLR 3|	The system shall switch to Self balance mode.|
+|HLR 4|	The system shall switch to Eco mode.|	
+|HLR 5|	The system shall switch to Urban mode.|
+|HLR 6| The system shall switch to Sports mode.|
+
+### Low Level Requirements
+
+|ID|Description|ID|
+|:---|:---|:---|
+|LLR1The system shall turn ON when the input given is HIGH(1).|HLR1|
+|LLR2|The system shall turn OFF when the input given is LOW(0).|HLR2|
+|LLR3|The system is in self balance mode only when input is high and turns off when mode/input is changed.|HLR3|
+|LLR4|The system is in eco mode only when the input is 2.|HLR4|
+|LLR5|The system is in urban mode only when the input is 3.|HLR5|
+|LLR6|The system is in sports mode only when the input is 4.|HLR6|
+
