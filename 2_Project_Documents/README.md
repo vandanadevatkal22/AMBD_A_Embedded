@@ -236,7 +236,7 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 
 ## SWOT Analysis
 
-
+<img width="667" alt="SWOT_Speedmodes" src="https://user-images.githubusercontent.com/98833151/160239235-cf11f600-7f85-463b-bcc1-dd73aeb623ce.png">
 
 ## 5W's & 1H
 
