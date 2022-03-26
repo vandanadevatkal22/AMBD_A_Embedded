@@ -26,3 +26,15 @@
 ## Research Papers
 
 * https://www.researchgate.net/publication/335081177_Design_of_PMSM_Speed_Control_system_based_on_simulink_Model
+
+## Referance for Battery management
+
+* https://in.mathworks.com/solutions/power-electronics-control/battery-management-system.html
+* https://www.matlabcoding.com/2019/08/battery-management-system-development.html
+* https://www.youtube.com/watch?v=ih0UyVc6sJA
+* https://www.youtube.com/watch?v=0aISnkBu1k4
+## Research papers
+
+* A. C. R and A. Ghosh, "Battery Management System in Electric Vehicle," 2021 4th Biennial International Conference on Nascent Technologies in Engineering (ICNTE), 2021, pp. 1-6, doi: 10.1109/ICNTE51185.2021.9487762.
+* https://evreporter.com/battery-management-system-for-electric-vehicles/#:~:text=BMS%20is%20an%20electronic%20system,and%20optimise%20the%20battery%20performance
+
