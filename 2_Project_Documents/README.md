@@ -247,8 +247,13 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 
 <img width="541" alt="black box" src="https://user-images.githubusercontent.com/98833151/160238372-4d11c2d3-4665-400e-9283-c0c8f5a1a956.png">
 
-## Block Diagram
+## UseCase Diagram
 
 
 
 ## Flowchart
+
+<img width="401" alt="Speed_mode_flowchart" src="https://user-images.githubusercontent.com/98833151/160244500-77720124-cde7-41ca-bb3b-1567979c85c0.png">
+
+
+
