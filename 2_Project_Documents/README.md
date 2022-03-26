@@ -87,6 +87,15 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 |LLR03	|If the vehicle turned on the light should turn on|
 |LLR04 |If Value 20 is pressed the Left should turn on|
 
+
+## Flow chart (Automatic Head Lamp)
+
+![flowchart_light](https://user-images.githubusercontent.com/46382398/160220662-d942d373-475b-4ede-afed-9d862c2b9031.png)
+
+## Indicator system
+![flowchart_light](https://user-images.githubusercontent.com/46382398/160221133-a1361b26-15fc-480d-9414-84878f1a1cc8.png)
+
+
 # Anti-Lock Braking System
 
 ## Abstract
