@@ -155,6 +155,10 @@ maintaining the stability of the bike.
 
 ![Screenshot (296)](https://user-images.githubusercontent.com/42509490/160197020-7e2688b5-e9bd-4ca1-a322-6e37bb142a69.png)
 
+## Flowchart
+
+![Screenshot (297)](https://user-images.githubusercontent.com/42509490/160228019-1a506cc7-bbfd-4896-8506-acdf8ec7ac38.png)
+
 ## SWOT Analysis
 
 ![Screenshot (295)](https://user-images.githubusercontent.com/42509490/160194974-011710ee-e198-48da-a448-84c230893f24.png)
