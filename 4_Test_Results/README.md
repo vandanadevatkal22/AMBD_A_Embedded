@@ -10,7 +10,8 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 |3. | 3  | 3 | Green light glowing | Green light glowing | PASS |
 |4. | 2 | 7 | Green light glowing | Green light glowing | PASS |
 |5. | -2 | 3 | Green light glowing | Green light glowing | PASS |
-
+### Angle of Deviation
+![Screenshot (750)](https://user-images.githubusercontent.com/66207959/160251669-bcf5eeca-969f-4151-a4d6-e64f42eeecae.png)
 
 ## Testing for Battery Management System
 
@@ -20,8 +21,14 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 |2|The system should estimate the state of charge (SoC)|No input| 85%|85%|PASS|
 |3|The system should monitor the temperature for thermal protection|41 degree celcius(from sensor)|41 degree celcius|41 degree celcius|PASS|
 |4|The system should maintain the temperature to 48 degree celcius of the battery if increases|52 degree celcius|48 degree celcius|48 degree celcius|PASS|
-
-
+### Charge percentage
+![Screenshot (744)](https://user-images.githubusercontent.com/66207959/160251711-18bf956e-c20a-4714-95dd-d3ac206a6ecf.png)
+### Current graph
+![Screenshot (744)](https://user-images.githubusercontent.com/66207959/160251733-1c1e0624-eaec-4a6a-9793-954ddc357304.png)
+### Voltage graph
+![Screenshot (746)](https://user-images.githubusercontent.com/66207959/160251748-32c82c7f-033b-4e0c-ac95-a4da1cf7a159.png)
+### Temperature graph
+![Screenshot (746)](https://user-images.githubusercontent.com/66207959/160251757-cea2944b-e0ad-4c23-bc33-e7325edef456.png)
 
 ## Testing for Lighting system
 
