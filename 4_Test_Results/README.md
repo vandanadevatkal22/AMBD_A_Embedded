@@ -28,7 +28,7 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 ### Voltage graph
 ![Screenshot (746)](https://user-images.githubusercontent.com/66207959/160251748-32c82c7f-033b-4e0c-ac95-a4da1cf7a159.png)
 ### Temperature graph
-![Screenshot (746)](https://user-images.githubusercontent.com/66207959/160251757-cea2944b-e0ad-4c23-bc33-e7325edef456.png)
+![Screenshot (747)](https://user-images.githubusercontent.com/66207959/160252649-ce35402a-06b6-4e0c-9255-4a15e8c81235.png)
 
 ## Testing for Lighting system
 
