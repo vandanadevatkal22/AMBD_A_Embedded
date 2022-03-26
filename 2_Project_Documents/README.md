@@ -192,7 +192,7 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 
 ### High Level Requirements
 
-|Id| Requirements|
+|ID|Description|
 |:---|:---|
 |HLR 1 |The system shall turn ON.|	
 |HLR 2 |The system shall turn OFF.|
@@ -203,9 +203,9 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 
 ### Low Level Requirements
 
-|ID|Description|ID|
+|ID|Description|HLRID|
 |:---|:---|:---|
-|LLR1The system shall turn ON when the input given is HIGH(1).|HLR1|
+|LLR1|The system shall turn ON when the input given is HIGH(1).|HLR1|
 |LLR2|The system shall turn OFF when the input given is LOW(0).|HLR2|
 |LLR3|The system is in self balance mode only when input is high and turns off when mode/input is changed.|HLR3|
 |LLR4|The system is in eco mode only when the input is 2.|HLR4|
