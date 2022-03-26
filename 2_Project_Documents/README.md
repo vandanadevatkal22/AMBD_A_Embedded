@@ -63,8 +63,7 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 | LLR5 | A controller/Control Unit should be created | A controller should be created for calculating the counter momentum to be made |
 | LLR6 | Disturbance angle should be sensed | Deviation of the bike from the rest angle should be known for further calculation. |
 ### 5W and 1H
-![5W1H Chart Self balancing](https://user-images.githubusercontent.com/66207959/160225501-88380f53-776c-47fd-84c6-81b023c28477.png)
-
+![image](https://user-images.githubusercontent.com/66207959/160225521-a8d6314d-dca8-4465-8748-712c7446e3e4.png)
 ### SWOT Analysis
 ![Algorithm flowchart example (2)](https://user-images.githubusercontent.com/98849909/160179631-7f6d65a0-8611-44c3-ad89-0b896118ba83.png)
 ### Usecase Diagram 
