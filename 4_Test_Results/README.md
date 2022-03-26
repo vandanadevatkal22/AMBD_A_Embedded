@@ -15,7 +15,7 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 ## Testing for Battery Management System
 
 |Sl.No|Requirements|input|Expected output|Actual output|Status|
-|-----|------------|---------------|-------------|------|
+|-----|------------|---------------|-------------|-----|------|
 |1|The system should monitor cell voltage|33V|Displays 33V|Display = 33V|PASS|
 |2|The system should estimate the state of charge (SoC)|No input| 85%|85%|PASS|
 |3|The system should monitor the temperature for thermal protection|41 degree celcius(from sensor)|41 degree celcius|41 degree celcius|PASS|
