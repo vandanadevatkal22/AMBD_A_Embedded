@@ -61,7 +61,7 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 
 # 📌Self-Balancing System
 ## Description
-In today's ever evolving market, competition for domination is increasing with the growth of market. In this market were the technology and use case keeps on growing, Rider's comfort plays an important role in selection of the Motorcycle. Riders often face difficulty in balancing motorcycles when riding at low speed or when trying to stop, which further results in causing many accidents. Hence there is a need for Self-Balancing system in Motorcycles. </br> 
+In today's ever evolving market, competition for domination is increasing with the growth of market. In this market were the technology and use case keeps on growing, Rider's comfort plays an important role in selection of the Motorcycle. Riders often face difficulty in balancing motorcycles when riding at low speed in both the direction as many EV's today comes with reverse control and also when they are trying to stop, which further results in causing many accidents. Hence there is a need for Self-Balancing system in Motorcycles. </br> 
 Self-balancing System works on the principle of Conservation of Angular Momentum. Which uses a flywheel for countering the momentum which may result in fall of motorcycle.
 
 ## Requirements
@@ -84,6 +84,7 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 | LLR4 | A Feedback loop should be established | The system should have a working feedback loop to send the current data back to the control loop |
 | LLR5 | A controller/Control Unit should be created | A controller should be created for calculating the counter momentum to be made |
 | LLR6 | Disturbance angle should be sensed | Deviation of the bike from the rest angle should be known for further calculation. |
+| LLR7 | The system should also work in both the direction | Self-balancing system should also work when the vehicle is in reverse gear |
 
 ### 5W and 1H
 ![image](https://user-images.githubusercontent.com/66207959/160225521-a8d6314d-dca8-4465-8748-712c7446e3e4.png)
