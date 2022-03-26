@@ -66,6 +66,9 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 ![Blank diagram (3)](https://user-images.githubusercontent.com/98849909/160179752-b84e5aee-759a-4e64-9790-e73ac9dbbf2d.png)
 ### Black Box
 ![team 5 functional structural (4)](https://user-images.githubusercontent.com/98849909/160179854-9bea707d-ffb3-40fa-b8de-0f21cdd89ba8.png)
+### Flowchart
+![Algorithm flowchart example](https://user-images.githubusercontent.com/98849909/160224994-83869859-5964-426a-9cba-8fe59ef87fb4.png)
+
 
 # Lighting control system
   Today, electric vehicles are becoming increasingly popular. Small vehicle makers, as well as big automobile manufacturers, are developing electric vehicles. Electric vehicles are a state strategic plan for the next decade because of the environmental demands, the competence of local power electronics technology, and the tardy development of new internal combustion engine-based cars. Electric vehicles of all brands and sizes are now available on the market. New electric vehicle parts and components are being developed in the electric car arena.
