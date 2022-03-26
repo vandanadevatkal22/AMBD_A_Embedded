@@ -59,6 +59,10 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 ## Flow chart
 ![BMS Flow chart](https://user-images.githubusercontent.com/66207959/160229388-d20a838b-f4ad-40c6-be9d-0fa9500e40c7.png)
 
+## Simulink Model
+![Screenshot (743)](https://user-images.githubusercontent.com/66207959/160252440-7aa68752-1f8f-4b5d-9ce9-7548459ba348.png)
+
+
 # 📌Self-Balancing System
 ## Description
 In today's ever evolving market, competition for domination is increasing with the growth of market. In this market were the technology and use case keeps on growing, Rider's comfort plays an important role in selection of the Motorcycle. Riders often face difficulty in balancing motorcycles when riding at low speed in both the direction as many EV's today comes with reverse control and also when they are trying to stop, which further results in causing many accidents. Hence there is a need for Self-Balancing system in Motorcycles. </br> 
@@ -100,6 +104,10 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 
 ### Flowchart
 ![Algorithm flowchart example](https://user-images.githubusercontent.com/98849909/160224994-83869859-5964-426a-9cba-8fe59ef87fb4.png)
+
+### Simulink Model
+![Screenshot (752)](https://user-images.githubusercontent.com/66207959/160252450-00241479-53b9-4490-96e6-c23b4b09751f.png)
+
 
 
 # 📌Lighting control system
