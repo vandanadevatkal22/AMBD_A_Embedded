@@ -45,7 +45,8 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 ![image](https://user-images.githubusercontent.com/66207959/160224414-966ec5ea-3848-4bcc-86f5-6cb24daf130a.png)
 ## Use Case Diagram
 ![image](https://user-images.githubusercontent.com/66207959/160225210-3943ebd2-e612-4cb8-bddc-414ed768422b.png)
-
+## Flow chart
+![BMS Flow chart](https://user-images.githubusercontent.com/66207959/160229388-d20a838b-f4ad-40c6-be9d-0fa9500e40c7.png)
 
 # Self-Balancing System
 ## Description
