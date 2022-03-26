@@ -13,13 +13,8 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 •	It should control the charging profile
 •	The system should monitor the temperature for thermal protection
 
-## SWOT Analysis
-![image](https://user-images.githubusercontent.com/66207959/160119689-b559561c-f66f-4d42-8eb5-f6c0c91f338e.png)
-## 5W and 1H
-![image](https://user-images.githubusercontent.com/66207959/160224414-966ec5ea-3848-4bcc-86f5-6cb24daf130a.png)
-## Use Case Diagram
-![image](https://user-images.githubusercontent.com/66207959/160225210-3943ebd2-e612-4cb8-bddc-414ed768422b.png)
-
+## Block Diagram
+![BMS Block Diagram](https://user-images.githubusercontent.com/66207959/160226990-ee70fbaf-58b9-426d-9cf1-42c4f0a53d68.png)
 ## Requirements Modelling
 
 ### High Level Requirements
@@ -42,6 +37,14 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 |LLR 4|By sensing the voltage at input, it shall control charging profile|
 |LLR 5|Sensors are placed external to one or more cells per module and internal temperatures are calibrated.|
  
+## SWOT Analysis
+![image](https://user-images.githubusercontent.com/66207959/160119689-b559561c-f66f-4d42-8eb5-f6c0c91f338e.png)
+## 5W and 1H
+![image](https://user-images.githubusercontent.com/66207959/160224414-966ec5ea-3848-4bcc-86f5-6cb24daf130a.png)
+## Use Case Diagram
+![image](https://user-images.githubusercontent.com/66207959/160225210-3943ebd2-e612-4cb8-bddc-414ed768422b.png)
+
+
 # Self-Balancing System
 ## Description
 In today's ever evolving market, competition for domination is increasing with the growth of market. In this market were the technology and use case keeps on growing, Rider's comfort plays an important role in selection of the Motorcycle. Riders often face difficulty in balancing motorcycles when riding at low speed or when trying to stop, which further results in causing many accidents. Hence there is a need for Self-Balancing system in Motorcycles. </br> 
