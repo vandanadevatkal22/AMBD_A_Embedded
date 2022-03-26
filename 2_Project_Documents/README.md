@@ -225,7 +225,7 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 
 ### Low Level Requirements
 
-|ID|Description|HLRID|
+|ID|Description|HLR ID|
 |:---|:---|:---|
 |LLR1|The system shall turn ON when the input given is HIGH(1).|HLR1|
 |LLR2|The system shall turn OFF when the input given is LOW(0).|HLR2|
@@ -234,3 +234,20 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 |LLR5|The system is in urban mode only when the input is 3.|HLR5|
 |LLR6|The system is in sports mode only when the input is 4.|HLR6|
 
+## SWOT Analysis
+
+
+
+## 5W's & 1H
+
+
+
+## Black Box
+
+<img width="541" alt="black box" src="https://user-images.githubusercontent.com/98833151/160238372-4d11c2d3-4665-400e-9283-c0c8f5a1a956.png">
+
+## Block Diagram
+
+
+
+## Flowchart
