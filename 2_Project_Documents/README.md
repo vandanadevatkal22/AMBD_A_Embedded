@@ -6,12 +6,12 @@ In electric vehicles, batteries are the primary source of power. The battery we 
 ## Description
 
 BMS is an electronic system that manages a rechargeable battery to ensure it operates safely and efficiently. BMS is designed to monitor the parameters associated with the battery pack and its individual cells, apply the collected data to eliminate safety risks and optimise the battery performance.
-•	It performs the following operations:
-•	The system should monitor cell voltage
-•	The system should estimate the state of charge (SoC)
-•	The system should protect the battery from overcharge
-•	It should control the charging profile
-•	The system should monitor the temperature for thermal protection
+* It performs the following operations:
+* The system should monitor cell voltage
+* The system should estimate the state of charge (SoC)
+* The system should protect the battery from overcharge
+* It should control the charging profile
+* The system should monitor the temperature for thermal protection
 
 ## Requirements Modelling
 
