@@ -17,6 +17,8 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 ![image](https://user-images.githubusercontent.com/66207959/160119689-b559561c-f66f-4d42-8eb5-f6c0c91f338e.png)
 ## 5W and 1H
 ![image](https://user-images.githubusercontent.com/66207959/160224414-966ec5ea-3848-4bcc-86f5-6cb24daf130a.png)
+## Use Case Diagram
+![BMS Use Case](https://user-images.githubusercontent.com/66207959/160225175-a770fa06-72dc-4aef-aa5e-129ba8e0a44a.png)
 
 ## Requirements Modelling
 
