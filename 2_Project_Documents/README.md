@@ -240,7 +240,7 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 
 ## 5W's & 1H
 
-
+<img width="547" alt="5W1H" src="https://user-images.githubusercontent.com/98833151/160239432-1aed2f65-3993-4150-8361-cd68bc5f873b.png">
 
 ## Black Box
 
