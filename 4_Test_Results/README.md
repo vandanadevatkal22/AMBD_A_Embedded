@@ -24,7 +24,7 @@ Rules: The system do not work when speed is greater than 4 kmph which will displ
 ### Charge percentage
 ![Screenshot (744)](https://user-images.githubusercontent.com/66207959/160251711-18bf956e-c20a-4714-95dd-d3ac206a6ecf.png)
 ### Current graph
-![Screenshot (744)](https://user-images.githubusercontent.com/66207959/160251733-1c1e0624-eaec-4a6a-9793-954ddc357304.png)
+![Screenshot (745)](https://user-images.githubusercontent.com/66207959/160251775-d0fbe685-cc48-492c-9d2c-464f1b73edf0.png)
 ### Voltage graph
 ![Screenshot (746)](https://user-images.githubusercontent.com/66207959/160251748-32c82c7f-033b-4e0c-ac95-a4da1cf7a159.png)
 ### Temperature graph
