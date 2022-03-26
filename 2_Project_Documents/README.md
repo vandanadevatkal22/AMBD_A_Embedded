@@ -1,6 +1,7 @@
-# Battery Management System
+# 📌Battery Management System
 
 ## Abstract
+
 In electric vehicles, batteries are the primary source of power. The battery we use requires charging after few miles. So, in order to extract the maximum output of a battery and to ensure its safe operation it is necessary that an efficient battery management system is deployed in a vehicle.  It monitors the parameters, determine SOC, and provide necessary services to ensure safe operation of battery. Hence BMS form an important part of any electric vehicle.
 
 ## Description
@@ -36,30 +37,45 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 |LLR 5|Sensors are placed external to one or more cells per module and internal temperatures are calibrated.|
 
 ## Black Box
+
 ![Blank diagram](https://user-images.githubusercontent.com/66207959/160227172-7d996847-b189-4baf-ab87-9d68ebc80a3b.png)
+
 ## Block Diagram
+
 ![BMS Block Diagram](https://user-images.githubusercontent.com/66207959/160226990-ee70fbaf-58b9-426d-9cf1-42c4f0a53d68.png)
+
 ## SWOT Analysis
+
 ![image](https://user-images.githubusercontent.com/66207959/160119689-b559561c-f66f-4d42-8eb5-f6c0c91f338e.png)
+
 ## 5W and 1H
+
 ![image](https://user-images.githubusercontent.com/66207959/160224414-966ec5ea-3848-4bcc-86f5-6cb24daf130a.png)
+
 ## Use Case Diagram
+
 ![image](https://user-images.githubusercontent.com/66207959/160225210-3943ebd2-e612-4cb8-bddc-414ed768422b.png)
+
 ## Flow chart
 ![BMS Flow chart](https://user-images.githubusercontent.com/66207959/160229388-d20a838b-f4ad-40c6-be9d-0fa9500e40c7.png)
 
-# Self-Balancing System
+# 📌Self-Balancing System
 ## Description
 In today's ever evolving market, competition for domination is increasing with the growth of market. In this market were the technology and use case keeps on growing, Rider's comfort plays an important role in selection of the Motorcycle. Riders often face difficulty in balancing motorcycles when riding at low speed or when trying to stop, which further results in causing many accidents. Hence there is a need for Self-Balancing system in Motorcycles. </br> 
 Self-balancing System works on the principle of Conservation of Angular Momentum. Which uses a flywheel for countering the momentum which may result in fall of motorcycle.
+
 ## Requirements
+
 ### High Level Requirements:
+
 | ID | Requirement | Description |
 | --- | --- | --- |
 | HLR1 | Self-Balancing System should get activated when the speed is Low | The system Should always sense the speed of motorcycle and should get activated when the speed is below the set(threshold) value. |
 | HLR2 | Self-Balancing System should balance the motorcycle | The system should be capable enough to balance the motorcycle |
 | HLR3 | Self-Balancing System should get deactivate when the speed is high | The system should always sense the sped of motorcycle and self-balancing feature should get deactivated when the speed is higher than the set(threshold) value |
+
 ### Low Level Requirements:
+
 | ID | Requirement | Description |
 | --- | --- | --- |
 | LLR1 | Sensing the speed | The system should be able to always sense the speed of the motorcycle so as to perform certain decision making. |
@@ -68,24 +84,31 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 | LLR4 | A Feedback loop should be established | The system should have a working feedback loop to send the current data back to the control loop |
 | LLR5 | A controller/Control Unit should be created | A controller should be created for calculating the counter momentum to be made |
 | LLR6 | Disturbance angle should be sensed | Deviation of the bike from the rest angle should be known for further calculation. |
+
 ### 5W and 1H
 ![image](https://user-images.githubusercontent.com/66207959/160225521-a8d6314d-dca8-4465-8748-712c7446e3e4.png)
+
 ### SWOT Analysis
 ![Algorithm flowchart example (2)](https://user-images.githubusercontent.com/98849909/160179631-7f6d65a0-8611-44c3-ad89-0b896118ba83.png)
+
 ### Usecase Diagram 
 ![Blank diagram (3)](https://user-images.githubusercontent.com/98849909/160179752-b84e5aee-759a-4e64-9790-e73ac9dbbf2d.png)
+
 ### Black Box
 ![team 5 functional structural (4)](https://user-images.githubusercontent.com/98849909/160179854-9bea707d-ffb3-40fa-b8de-0f21cdd89ba8.png)
+
 ### Flowchart
 ![Algorithm flowchart example](https://user-images.githubusercontent.com/98849909/160224994-83869859-5964-426a-9cba-8fe59ef87fb4.png)
 
 
-# Lighting control system
+# 📌Lighting control system
+
   Today, electric vehicles are becoming increasingly popular. Small vehicle makers, as well as big automobile manufacturers, are developing electric vehicles. Electric vehicles are a state strategic plan for the next decade because of the environmental demands, the competence of local power electronics technology, and the tardy development of new internal combustion engine-based cars. Electric vehicles of all brands and sizes are now available on the market. New electric vehicle parts and components are being developed in the electric car arena.
   
-  ## Requirements
+## Requirements
   
-  ### High Level Requirements:
+### High Level Requirements:
+
 | ID | Requirement |
 | --- | --- |
 |HLR01	|The Light should turn on automatically when the vehicle starts|
@@ -94,6 +117,7 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 |HLR04	|The Left light should turn on when steering turned to words left|
 
 ### Low Level reqirement
+
 |LLR	|Description|
 |-----|----------|
 |LLR01	|If the vehicle turned on the light should turn on|
@@ -105,8 +129,6 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 
 ![Amazon SWOT Analysis](https://user-images.githubusercontent.com/46382398/160226891-e3004ba1-23a5-4969-b63d-8641f3af7bf1.png)
 
-
-
 ## Flow chart (Automatic Head Lamp)
 
 ![flowchart_light](https://user-images.githubusercontent.com/46382398/160220662-d942d373-475b-4ede-afed-9d862c2b9031.png)
@@ -115,7 +137,7 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 ![flowchart_light](https://user-images.githubusercontent.com/46382398/160221133-a1361b26-15fc-480d-9414-84878f1a1cc8.png)
 
 
-# Anti-Lock Braking System
+# 📌Anti-Lock Braking System
 
 ## Abstract
 
@@ -169,7 +191,7 @@ maintaining the stability of the bike.
 ![Screenshot (298)](https://user-images.githubusercontent.com/42509490/160229128-0d39030b-e1c7-4cd7-9635-077e52b840ff.png)
 
 
-# Speed Modes
+# 📌SPEED MODES
 
 ## Abstract
 
