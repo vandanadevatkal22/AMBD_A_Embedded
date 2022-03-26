@@ -199,6 +199,9 @@ maintaining the stability of the bike.
 
 ![Screenshot (298)](https://user-images.githubusercontent.com/42509490/160229128-0d39030b-e1c7-4cd7-9635-077e52b840ff.png)
 
+## Simulation Model
+
+![Screenshot (302)](https://user-images.githubusercontent.com/42509490/160253236-3ea587c9-4d97-48d4-95e7-634ee1d126b9.png)
 
 # 📌SPEED MODES
 
@@ -262,6 +265,3 @@ In sports mode, the throttle will become more responsive, meaning the bike accel
 ## Flowchart
 
 <img width="401" alt="Speed_mode_flowchart" src="https://user-images.githubusercontent.com/98833151/160244500-77720124-cde7-41ca-bb3b-1567979c85c0.png">
-
-
-
