@@ -43,6 +43,25 @@ Self-balancing System works on the principle of Conservation of Angular Momentum
 ### Simulink Model
 ![Screenshot (752)](https://user-images.githubusercontent.com/66207959/160252450-00241479-53b9-4490-96e6-c23b4b09751f.png)
 
+# Testing
+
+## Testing for Self-Balancing System
+
+Rules: The system do not work when speed is greater than 4 kmph which will display a read light and whenever the speed is less than 4 is will diplay a green light which means the system can be implemented and working
+|Sl.NO| Input(Acceleration in kmph) | Input(Angular Deviation in degree) | Expected Output | Actual Output | Status |
+|:---|:---|:---|:---|:----|:----|
+|1. | 45 | 6 | Read light glowing | Read light glowing | PASS |
+|2. | 30 | 4 | Read light glowing | Read light glowing | PASS |
+|3. | 3  | 3 | Green light glowing | Green light glowing | PASS |
+|4. | 2 | 7 | Green light glowing | Green light glowing | PASS |
+|5. | -2 | 3 | Green light glowing | Green light glowing | PASS |
+
+* Angle of Deviation
+![Screenshot (750)](https://user-images.githubusercontent.com/66207959/160251669-bcf5eeca-969f-4151-a4d6-e64f42eeecae.png)
+
+* Oscillations
+<img width="479" alt="Self_balance" src="https://user-images.githubusercontent.com/98833151/160252826-3d9930ca-ba92-4bd8-9340-699301225fc6.png">
+
 # References
 
 ## Reference for Self-Balancing features:
