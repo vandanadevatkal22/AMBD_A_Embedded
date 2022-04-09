@@ -52,6 +52,18 @@ BMS is an electronic system that manages a rechargeable battery to ensure it ope
 
 ![image](https://user-images.githubusercontent.com/66207959/160224414-966ec5ea-3848-4bcc-86f5-6cb24daf130a.png)
 
+## Referance for Battery management
+
+* https://in.mathworks.com/solutions/power-electronics-control/battery-management-system.html
+* https://www.matlabcoding.com/2019/08/battery-management-system-development.html
+* https://www.youtube.com/watch?v=ih0UyVc6sJA
+* https://www.youtube.com/watch?v=0aISnkBu1k4
+## Research papers
+
+* A. C. R and A. Ghosh, "Battery Management System in Electric Vehicle," 2021 4th Biennial International Conference on Nascent Technologies in Engineering (ICNTE), 2021, pp. 1-6, doi: 10.1109/ICNTE51185.2021.9487762.
+* https://evreporter.com/battery-management-system-for-electric-vehicles/#:~:text=BMS%20is%20an%20electronic%20system,and%20optimise%20the%20battery%20performance
+
+
 ## Use Case Diagram
 
 ![image](https://user-images.githubusercontent.com/66207959/160225210-3943ebd2-e612-4cb8-bddc-414ed768422b.png)
